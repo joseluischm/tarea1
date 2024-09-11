@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #051612;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 10px;
+    color: #fbfbfb; 
+
+}
+
+header h1 {
+        font-size: 5em; /* Ajusta el tamaño del texto aquí */
+    }
+
+
+section {
+    padding: 20px;
+    color: #fbfbfb;
+}
+
+img {
+    width: 200px;
+    margin: 10px;
+}
+
+video {
+    width: 100%;
+    max-width: 600px;
+}
+
+nav {
+    margin: 20px;
+    text-align: center;
+}
+
+button {
+    padding: 15px 30px; /* Aumenta el relleno para hacer el botón más grande */
+    margin: 10px;
+    background-color: #bbf50f;
+    color: rgb(15, 14, 14);
+    border: none;
+    cursor: pointer;
+    font-size: 25px; /* Aumenta el tamaño del texto */
+}
+
+
+
+button:hover {
+    background-color: #3c4f9a;
+}
